@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/laba3.dir/main.cpp.o"
-  "laba3.pdb"
   "laba3.exe"
+  "laba3.pdb"
   "liblaba3.dll.a"
 )
 
